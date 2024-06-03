@@ -1,6 +1,6 @@
 
 # Project Description
-This repository contains scripts for processing SRA data and preparing it for downstream single-cell multiomics analysis using Seurat. The workflow includes **downloading SRA data**, **converting it to FASTQ format**, **compressing the FASTQ files**, **generating input files for Cell Ranger**, and **running Cell Ranger** to generate gene expression and chromatin accessibility data.
+This repository contains scripts for processing SRA data and preparing it for downstream single-cell multiomics analysis using Seurat. The workflow includes **downloading SRA data**, **converting it to FASTQ format**, **compressing the FASTQ files**, **generating input files for Cell Ranger**, and **running Cell Ranger** to generate such as gene expression, chromatin accessibility data.
 
 # Workflow Steps
 
