@@ -110,3 +110,6 @@ df.merged_umap.adt <- merge(df.umap_rna, df.trans_adt, by = "row.names", all.x =
   dplyr::rename(name = "Row.names")
 fwrite(df.merged_umap.adt, paste0(output_path.prefix,"cmcaID-sampleID-ADT.csv"), row.names = FALSE)
 ```
+
+## Usage
+- Set the working directory and output path: Update the `setwd` and `output_path.prefix` variables with your file paths.
