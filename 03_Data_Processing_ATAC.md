@@ -1,9 +1,9 @@
 # Single-Cell Multi-Omics Integration Pipeline
-
-This repository hosts a robust analysis pipeline designed to integrate single-cell RNA sequencing (scRNA-seq) and Assay for Transposase-Accessible Chromatin with high-throughput sequencing (ATAC-seq) data using Seurat, a popular R package for single-cell genomics analysis.
+This script performs comprehensive preprocessing, analysis, and integration of single-cell RNA sequencing (scRNA-seq) and single-cell Assay for Transposase-Accessible Chromatin with high-throughput sequencing (scATAC-seq) data using the Seurat package in R.
+```
 rm(list = ls())
 set.seed(2024)
-
+```
 ## 1. Data Input
 ```
 # Set working directory
