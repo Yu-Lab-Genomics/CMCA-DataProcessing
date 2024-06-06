@@ -1,4 +1,4 @@
-# CMCA-database
+# CMCA-DataProcessing
 This repository offers standardized data processing pipelines for the CMCA database. We hope this could assist users in comprehending the uniform processing applied to the data. 
 
 `01_Data_Processing_SRA.md`
