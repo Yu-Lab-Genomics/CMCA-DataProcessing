@@ -9,3 +9,16 @@ This script provides examples for comprehensive preprocessing and analysis techn
 
 `03_Data_Processing_ATAC.md`
 This script provides examples for comprehensive preprocessing and analysis of single-cell RNA sequencing (scRNA-seq) and single-cell Assay for Transposase-Accessible Chromatin with high-throughput sequencing (scATAC-seq) data using the Seurat package in R.
+
+The software we used includes:
+•	cellranger-arc (version 2.0.2)
+•	SAMtools (version 1.19.2)
+•	BCFtools (version 1.19)
+•	HTSlib (version 1.19.1)
+•	fastq-dump (version 3.1.0)
+•	R (version 4.3.3)
+•	MACS2 (version 2.2.9.1)
+•	Seurat (version 5.0.3)
+•	Signac (version 1.13.0)
+
+
